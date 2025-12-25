@@ -65,4 +65,5 @@ schema design, referential integrity, and reusable SQL procedures.
 
 ## Author
 Julia Lu
+
 LinkedIn: [https://linkedin.com/in/julia-mey-lu](https://www.linkedin.com/in/julia-mey-lu/)
