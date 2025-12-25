@@ -47,7 +47,9 @@ schema design, referential integrity, and reusable SQL procedures.
 1. Create schema:
 ```sql
 .read BAKERY-setup.sql
+```
 2. Load data and procedures:
+```sql
 .read BAKERY-build-customers.sql
 .read BAKERY-build-goods.sql
 .read BAKERY-build-receipts.sql
@@ -55,8 +57,11 @@ schema design, referential integrity, and reusable SQL procedures.
 .read prcAddNewGood.sql
 .read prcCheckLoyaltyStatus.sql
 .read prcProcessOrder.sql
+```
 3. Run queries or tests:
+```sql
 .read BAKERY_queries.sql
+```
 
 ## Author
 Julia Lu
